@@ -54,7 +54,7 @@ Results:
 
 
 ![](Resources/boost%20acc_score.PNG)
-![](main/Resources/boost%20cm.PNG)
+![](Resources/boost%20cm.PNG)
 ![](Resources/boost%20cr.PNG)
 
 
